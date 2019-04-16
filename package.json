@@ -1,0 +1,9 @@
+{
+  "name": "nice-mutation-observer",
+  "version": "1.0.0",
+  "description": "Mutation Observer with a nicer api",
+  "main": "index.js",
+  "repository": "git@github.com:gabemeola/nice-mutation-observer.git",
+  "author": "Gabe M. <gabemeola@gmail.com>",
+  "license": "MIT"
+}
