@@ -1,8 +1,8 @@
 const _observe = require('./index');
 
-function observe(opts, cb) {
+function observe(type, opts, cb) {
   const el = this;
-  return _observe(el, opts, cb);
+  return _observe(el, type, opts, cb);
 }
 
 Element.prototype.observe = observe;

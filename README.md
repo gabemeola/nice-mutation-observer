@@ -20,7 +20,6 @@ disconnect();
 
 ### Without global prototype
 ```js
-// Install on Element prototype
 import observe from 'nice-mutation-observer';
 
 const el = document.getElementById('app');
