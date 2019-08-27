@@ -1,4 +1,4 @@
-const _observe = require('./index');
+import _observe from './index';
 
 function observe(type, opts, cb) {
   const el = this;
